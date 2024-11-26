@@ -20,7 +20,7 @@ func main() {
 	fmt.Println("\n===== SORT =====")
 	ages := []int{45, 20, 30, 75, 60, 50, 25}
 	sort.Ints(ages)
-	// Sort Descending (if u want ascending, write ages[i] < ages[j]
+	// Sort Descending (if u want descending, write ages[i] < ages[j]
 	//sort.Slice(ages, func(i, j int) bool {
 	//	return ages[i] > ages[j]
 	//})
