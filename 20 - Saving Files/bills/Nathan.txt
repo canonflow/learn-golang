@@ -1,0 +1,6 @@
+Bill breakdown: 
+Coffee:                   ... $10.99 
+Cookies:                  ... $7.99 
+Cake:                     ... $14.99 
+Tip:                      ... $10.00 
+Total:                    ... $43.97
